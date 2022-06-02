@@ -18,4 +18,4 @@ Name.txt
 
 VoteDetails.txt
 
-    Realtime Vote details will collected here (voter ID + candedate name). And only admin can see this.
+    Realtime Vote details 
